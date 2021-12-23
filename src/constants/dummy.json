@@ -1,0 +1,355 @@
+{
+  "subProducts": [
+    {
+      "id": 1,
+      "title": "QW:39619",
+      "price": "27500",
+      "totalCount": 12,
+      "currentCount": 1,
+      "avatar": "5.jpg",
+      "product": "product_11.png"
+    },
+    {
+      "id": 2,
+      "title": "AC:48628",
+      "price": "27500",
+      "totalCount": 3,
+      "currentCount": 1,
+      "avatar": "6.jpg",
+      "product": "product_12.png"
+    },
+    {
+      "id": 3,
+      "title": "DU:57637",
+      "price": "45500",
+      "totalCount": 12,
+      "currentCount": 6,
+      "avatar": "7.jpg",
+      "product": "product_13.png"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "title": "CaskStore",
+      "price": 245600,
+      "count": 6,
+      "avatar": "5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "VCL Wallet",
+      "price": 595600,
+      "count": 4,
+      "avatar": "6.jpg"
+    },
+    {
+      "id": 3,
+      "title": "LMV Wallet",
+      "price": 846600,
+      "count": 1,
+      "avatar": "7.jpg"
+    },
+    {
+      "id": 4,
+      "title": "PariStore",
+      "price": 823400,
+      "count": 2,
+      "avatar": "8.jpg"
+    }
+  ],
+  "sellers": [
+    {
+      "id": 1,
+      "status": "primary",
+      "avatar": "1.jpg",
+      "price": 2.344,
+      "name": "Python hey"
+    },
+    {
+      "id": 2,
+      "status": "primary",
+      "avatar": "2.jpg",
+      "price": 9.344,
+      "name": "Jack Robot pa"
+    },
+    {
+      "id": 3,
+      "status": "success",
+      "avatar": "3.jpg",
+      "price": 4.644,
+      "name": "Dash Robot pa"
+    },
+    {
+      "id": 4,
+      "status": "default",
+      "avatar": "4.jpg",
+      "price": 6.344,
+      "name": "Python hey"
+    },
+    {
+      "id": 5,
+      "status": "default",
+      "avatar": "5.jpg",
+      "price": 5.344,
+      "name": "Helen"
+    },
+    {
+      "id": 6,
+      "status": "primary",
+      "avatar": "6.jpg",
+      "price": 2.344,
+      "name": "Python hey"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "SC:13116",
+      "price": 79900,
+      "count": 23,
+      "owners": [
+        "1.jpg", "2.jpg", "3.jpg"
+      ],
+      "bid": 3000,
+      "picture": "product_01.png"
+    },
+    {
+      "id": 2,
+      "title": "QW:39619",
+      "price": 3000.00,
+      "count": 1,
+      "owners": [
+        "3.jpg", "4.jpg", "5.jpg"
+      ],
+      "bid": 5000,
+      "picture": "product_02.png"
+    },
+    {
+      "id": 3,
+      "title": "AC:48628",
+      "price": 58900,
+      "count": 7,
+      "owners": [
+        "6.jpg", "7.jpg", "8.jpg"
+      ],
+      "bid": 40000,
+      "picture": "product_03.png"
+    },
+    {
+      "id": 4,
+      "title": "DU:57637",
+      "price": 90000,
+      "count": 23,
+      "owners": [
+        "1.jpg", "2.jpg", "3.jpg"
+      ],
+      "bid": 12400,
+      "picture": "product_06.png"
+    },
+    {
+      "id": 5,
+      "title": "IK:68646",
+      "price": 90000,
+      "count": 2,
+      "owners": [
+        "1.jpg", "2.jpg", "3.jpg"
+      ],
+      "bid": 12400,
+      "picture": "product_07.png"
+    },
+    {
+      "id": 6,
+      "title": "LD:76655",
+      "price": 50000,
+      "count": 0,
+      "owners": [
+        "1.jpg", "2.jpg", "3.jpg"
+      ],
+      "bid": 240000,
+      "picture": "product_10.png"
+    },
+    {
+      "id": 7,
+      "title": "PE:85664",
+      "price": 0.00,
+      "count": 0,
+      "owners": [
+        "7.jpg", "8.jpg", "9.jpg"
+      ],
+      "bid": 10000,
+      "picture": "product_11.png"
+    },
+    {
+      "id": 8,
+      "title": "ZM:94673",
+      "price": 10000,
+      "count": 3,
+      "owners": [
+        "1.jpg", "2.jpg", "3.jpg"
+      ],
+      "bid": 4500,
+      "picture": "product_12.png"
+    },
+    {
+      "id": 9,
+      "title": "OL:23682",
+      "price": 10000,
+      "count": 88,
+      "owners": [
+        "9.jpg", "10.jpg", "11.jpg"
+      ],
+      "bid": 8000,
+      "picture": "product_08.png"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "main": "product_01.png",
+      "items": [
+        "product_13.png", "product_15.png", "product_14.png"
+      ],
+      "seller": "10.jpg",
+      "sellerName": "Donkey",
+      "title": "YH:12693",
+      "count": 4
+    },
+    {
+      "id": 2,
+      "main": "product_02.png",
+      "items": [
+        "product_04.png", "product_05.png", "product_06.png"
+      ],
+      "seller": "11.jpg",
+      "sellerName": "Elizabeth",
+      "title": "OL:23682",
+      "count": 5
+    },
+    {
+      "id": 3,
+      "main": "product_03.png",
+      "items": [
+        "product_01.png", "product_02.png", "product_03.png"
+      ],
+      "seller": "8.jpg",
+      "sellerName": "Eliot pa",
+      "title": "YH:12693",
+      "count": 9
+    }
+  ],
+  "activities": [
+    {
+      "id": 1,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_05.png"
+    },
+    {
+      "id": 2,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_05.png"
+    },
+    {
+      "id": 3,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_06.png"
+    },
+    {
+      "id": 4,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_07.png"
+    },
+    {
+      "id": 5,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_08.png"
+    },
+    {
+      "id": 6,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_09.png"
+    },
+    {
+      "id": 7,
+      "title": "Some thing went wrong",
+      "description": "Can’t display activity card. Try again later",
+      "date": "2 days ago",
+      "product": "product_10.png"
+    }
+  ],
+  "notifications": [
+    {
+      "id": 1,
+      "title": "CSPR received",
+      "comment": "8000 CSPR received",
+      "image": "product_01.png"
+    },
+    {
+      "id": 2,
+      "title": "Message received",
+      "comment": "8000 CSPR received",
+      "image": "product_02.png"
+    },
+    {
+      "id": 3,
+      "title": "Notification received",
+      "comment": "8000 CSPR received",
+      "image": "product_03.png"
+    },
+    {
+      "id": 4,
+      "title": "Email received",
+      "comment": "8000 CSPR received",
+      "image": "product_04.png"
+    }
+  ],
+  "followers": [
+    {
+      "id": 1,
+      "name": "Sally Fadel",
+      "comment": "161 followers",
+      "avatar": "1.jpg",
+      "products": ["product_01.png", "product_02.png", "product_03.png", "product_04.png"]
+    },
+    {
+      "id": 2,
+      "name": "Aniya Harber",
+      "comment": "161 followers",
+      "avatar": "2.jpg",
+      "products": ["product_04.png", "product_05.png", "product_06.png", "product_07.png"]
+    },
+    {
+      "id": 3,
+      "name": "Edwardo Bea",
+      "comment": "161 followers",
+      "avatar": "3.jpg",
+      "products": ["product_08.png", "product_09.png", "product_10.png", "product_11.png"]
+    },
+    {
+      "id": 4,
+      "name": "Reymundo",
+      "comment": "161 followers",
+      "avatar": "4.jpg",
+      "products": ["product_07.png", "product_08.png", "product_09.png", "product_10.png"]
+    },
+    {
+      "id": 5,
+      "name": "Jeanette",
+      "comment": "161 followers",
+      "avatar": "5.jpg",
+      "products": ["product_05.png", "product_06.png", "product_07.png", "product_08.png"]
+    }
+  ]
+}
